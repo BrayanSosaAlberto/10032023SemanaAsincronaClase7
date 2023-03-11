@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsincronaSemana7", "AsincronaSemana7.csproj", "{94DFA505-6331-457E-878B-BF245C51C81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DFA505-6331-457E-878B-BF245C51C81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DFA505-6331-457E-878B-BF245C51C81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DFA505-6331-457E-878B-BF245C51C81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DFA505-6331-457E-878B-BF245C51C81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF2397C-31E6-487F-930D-FC2BDDAA9CF8}
+	EndGlobalSection
+EndGlobal
